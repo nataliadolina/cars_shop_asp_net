@@ -20,9 +20,7 @@ C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\staticwebassets\msbuild.build.
 C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shop.props
 C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shop.props
 C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\scopedcss\bundle\Shop.styles.css
-C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\scopedcss\projectbundle\Shop.bundle.scp.css
 C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\Shop.dll
 C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\refint\Shop.dll
 C:\Users\natik\source\repos\Shop\obj\Debug\net8.0\Shop.pdb

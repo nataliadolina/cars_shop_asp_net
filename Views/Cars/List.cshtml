@@ -1,24 +1,19 @@
 ﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
-@using Shop.Models;
-@model IEnumerable<Car>
+@model CarsListViewModel
 @{
-    Layout = null;
+    Layout = "_Layout";
 }
-<html>
-    <meta name="viewport" content="width=device-width" />
-    <title>List</title>
-</html>
-<body>
-    <h2>Все автомообили</h2>
-    @{
-        foreach (var car in Model)
-        {
-            <div>
+
+<h1>@Model.CurrentCategory</h1>
+<h3>Все автомобили</h3>
+@{
+    foreach (var car in Model.AllCars)
+    {
+        <div>
             <h2>Модель: @car.Name</h2>
             <p>Цена: @car.Price.ToString("c")</p>
-            </div>
-        }
+        </div>
     }
-</body>
+}
