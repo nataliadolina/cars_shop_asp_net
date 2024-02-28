@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\natik\\source\\repos\\shop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\natik\\source\\repos\\shop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\natik\\source\\repos\\shop\\wwwroot\\img\\nissan.jpg",
+      "PackagePath": "staticwebassets\\img\\nissan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\natik\\source\\repos\\shop\\wwwroot\\img\\tesla1.jpg",
+      "PackagePath": "staticwebassets\\img\\tesla1.jpg"
     },
     {
       "Id": "C:\\Users\\natik\\source\\repos\\shop\\wwwroot\\js\\site.js",

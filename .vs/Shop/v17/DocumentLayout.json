@@ -3,32 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\natik\\source\\repos\\Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\data\\dbobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:data\\dbobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\cars\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\cars\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\data\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:data\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\mocks\\mockcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:mocks\\mockcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\migrations\\20240228134100_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:migrations\\20240228134100_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\migrations\\appdbcontentmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:migrations\\appdbcontentmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natik\\source\\repos\\Shop\\Migrations\\20240228134100_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240228134100_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\interfaces\\icarscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:interfaces\\icarscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\wwwroot\\img\\tesla1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:wwwroot\\img\\tesla1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\cars\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\cars\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\viewmodels\\carslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,38 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\interfaces\\iallcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:interfaces\\iallcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\mocks\\mockcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:mocks\\mockcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\interfaces\\icarscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:interfaces\\icarscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|c:\\users\\natik\\source\\repos\\shop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9781E2-3A3C-4F9B-B9CC-CEC988366E45}|Shop.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -85,90 +137,266 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:32:11.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\shop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\shop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T12:21:23.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T12:27:44.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Cars\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cars\\List.cshtml",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Cars\\List.cshtml",
-              "RelativeToolTip": "Views\\Cars\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T20:34:24.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarsController.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Title": "DBObjects.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Data\\DBObjects.cs",
+              "RelativeDocumentMoniker": "Data\\DBObjects.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Data\\DBObjects.cs",
+              "RelativeToolTip": "Data\\DBObjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T20:21:57.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\shop\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\shop\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T12:26:39.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T12:27:11.234Z",
+              "WhenOpened": "2024-02-28T13:46:53.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:06:43.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockCars.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCars.cs",
+              "RelativeDocumentMoniker": "Mocks\\MockCars.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCars.cs",
+              "RelativeToolTip": "Mocks\\MockCars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T20:02:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MockCategory.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCategory.cs",
+              "RelativeDocumentMoniker": "Mocks\\MockCategory.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCategory.cs",
+              "RelativeToolTip": "Mocks\\MockCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:55:38.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContent.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Data\\AppDBContent.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContent.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Data\\AppDBContent.cs",
+              "RelativeToolTip": "Data\\AppDBContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:51:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:38:44.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:36:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:36:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240228134100_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Migrations\\20240228134100_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240228134100_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Migrations\\20240228134100_Initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240228134100_Initial.Designer.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:44:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDBContentModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Migrations\\AppDBContentModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDBContentModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Migrations\\AppDBContentModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDBContentModelSnapshot.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:42:33.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240228134100_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Migrations\\20240228134100_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240228134100_Initial.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Migrations\\20240228134100_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240228134100_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:41:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T09:38:56.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICarsCategory.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Interfaces\\ICarsCategory.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICarsCategory.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Interfaces\\ICarsCategory.cs",
+              "RelativeToolTip": "Interfaces\\ICarsCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:49:15.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:06:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shop.csproj",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\shop\\Shop.csproj",
+              "RelativeDocumentMoniker": "Shop.csproj",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\shop\\Shop.csproj",
+              "RelativeToolTip": "Shop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T19:47:25.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:03:25.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:03:22.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-27T18:02:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tesla1.jpg",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\wwwroot\\img\\tesla1.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\tesla1.jpg",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\wwwroot\\img\\tesla1.jpg",
+              "RelativeToolTip": "wwwroot\\img\\tesla1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-27T19:12:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -181,7 +409,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T12:27:11.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T12:21:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Cars\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cars\\List.cshtml",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Cars\\List.cshtml",
+              "RelativeToolTip": "Views\\Cars\\List.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T20:34:24.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T12:27:44.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-27T18:01:00.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T12:26:39.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T20:21:57.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "CarsListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\ViewModels\\CarsListViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\CarsListViewModel.cs",
@@ -194,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -207,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 30,
               "Title": "IAllCars.cs",
               "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Interfaces\\IAllCars.cs",
               "RelativeDocumentMoniker": "Interfaces\\IAllCars.cs",
@@ -217,104 +536,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T19:51:07.486Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MockCars.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCars.cs",
-              "RelativeDocumentMoniker": "Mocks\\MockCars.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCars.cs",
-              "RelativeToolTip": "Mocks\\MockCars.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T20:02:27.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Shop.csproj",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\shop\\Shop.csproj",
-              "RelativeDocumentMoniker": "Shop.csproj",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\shop\\Shop.csproj",
-              "RelativeToolTip": "Shop.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-24T19:47:25.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MockCategory.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCategory.cs",
-              "RelativeDocumentMoniker": "Mocks\\MockCategory.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Mocks\\MockCategory.cs",
-              "RelativeToolTip": "Mocks\\MockCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:55:38.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICarsCategory.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Interfaces\\ICarsCategory.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ICarsCategory.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Interfaces\\ICarsCategory.cs",
-              "RelativeToolTip": "Interfaces\\ICarsCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:49:15.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:32:11.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "Models\\Car.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Car.cs",
-              "RelativeToolTip": "Models\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:38:44.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:36:47.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\natik\\source\\repos\\Shop\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:36:28.988Z"
             }
           ]
         }
