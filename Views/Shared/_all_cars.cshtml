@@ -1,0 +1,14 @@
+﻿@model Car
+<div class="card shadow-sm">
+    <img class="card-img-top" src="@Model.Image" alt="@Model.Name">
+    <div class="card-body">
+        <p class="card-text">Модель: @Model.Name</p>
+        <p class="card-text">@Model.ShortDesc</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <div class="btn-group">
+                <a type="button" asp-controller="ShopCart" asp-action="AddToCart" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-secondary">Add to cart</a>
+            </div>
+            <small class="text-muted">@Model.Price.ToString("c")</small>
+        </div>
+    </div>
+</div>

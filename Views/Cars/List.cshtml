@@ -12,22 +12,10 @@
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         @{
-            foreach (var car in Model.AllCars)
+            foreach (Car car in Model.AllCars)
             {
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img class="card-img-top" src="@car.Image" alt="@car.Name">
-                        <div class="card-body">
-                            <p class="card-text">Модель: @car.Name</p>
-                            <p class="card-text">@car.ShortDesc</p>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <div class="btn-group">
-                                    <button type="button" href="#" class="btn btn-sm btn-outline-secondary">Подробнее</button>
-                                </div>
-                                <small class="text-muted">@car.Price.ToString("c")</small>
-                            </div>
-                        </div>
-                    </div>
+                    @Html.Partial("_all_cars", car)
                 </div>
             }
         }

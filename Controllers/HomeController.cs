@@ -1,21 +1,29 @@
 using Microsoft.AspNetCore.Mvc;
+using Shop.Interfaces;
 using Shop.Models;
+using Shop.ViewModels;
 using System.Diagnostics;
 
 namespace Shop.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IAllCars _carRepository;
+        private readonly ShopCart _shopCart;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IAllCars carRepository, ShopCart shopCart)
         {
-            _logger = logger;
+            _shopCart = shopCart;
+            _carRepository = carRepository;
         }
 
-        public IActionResult Index()
+        public ViewResult Index()
         {
-            return View();
+            var homeCars = new HomeViewModel
+            {
+                FavouriteCars = _carRepository.FavCars,
+            };
+            return View(homeCars);
         }
 
         public IActionResult Privacy()

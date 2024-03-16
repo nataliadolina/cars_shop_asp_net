@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Shop.Interfaces;
+using Shop.Models;
 using Shop.ViewModels;
 
 namespace Shop.Controllers
@@ -15,13 +16,37 @@ namespace Shop.Controllers
             _allCategories = carsCategory;
         }
 
-        public ViewResult List()
+        [Route("Cars/List")]
+        [Route("Cars/List/{category}")]
+        public ViewResult List(string category)
         {
+            string _category = category;
+            IEnumerable<Car> cars = null;
+            string currentCategory = "";
+            if (string.IsNullOrEmpty(category))
+            {
+                cars = _allCars.Cars.OrderBy(i => i.Id);
+            } else
+            {
+                if (string.Equals("electro", category, StringComparison.OrdinalIgnoreCase))
+                {
+                    cars = _allCars.Cars.Where(i => i.Category.CategoryName.Equals("Электромобили")).OrderBy(i => i.Id);
+                }
+                else if (string.Equals("fuel", category, StringComparison.OrdinalIgnoreCase))
+                {
+                    cars = _allCars.Cars.Where(i => i.Category.CategoryName.Equals("Классические автомобили")).OrderBy(i => i.Id);
+                }
+            }
+            currentCategory = _category;
+            CarsListViewModel carObj = new CarsListViewModel()
+            {
+                AllCars = cars,
+                CurrentCategory = currentCategory,
+            };
+
             ViewBag.Title = "Список всех автомобилей";
-            CarsListViewModel model = new CarsListViewModel();
-            model.AllCars = _allCars.Cars;
-            model.CurrentCategory = "Автомобили";
-            return View(model);
+
+            return View(carObj);
         }
     }
 }

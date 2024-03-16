@@ -1,0 +1,24 @@
+﻿@model Car
+<div class="card mb-3">
+    <div class="card-body">
+        <div class="d-flex justify-content-between">
+            <div class="d-flex flex-row align-items-center">
+                <div>
+                    <img src="@Model.Image" class="img-fluid rounded-3" alt="@Model.Name" style="width: 65px;">
+                </div>
+                <div class="ms-3">
+                    <h5><ya-tr-span data-index="44-0" data-translated="true" data-source-lang="en" data-value="@Model.Name" data-type="trSpan" style="visibility: initial !important;">@Model.Name</ya-tr-span></h5>
+                </div>
+            </div>
+            <div class="d-flex flex-row align-items-center">
+                <div style="width: 80px;">
+                    <h5 class="mb-0">@Model.Price</h5>
+                </div>
+                <a asp-controller="ShopCart" asp-action="DeleteCar" asp-route-carId="@Model.Id" style="color: #cecece;"><i class="fas fa-trash-alt">delete</i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                    
+                                
