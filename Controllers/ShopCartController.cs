@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Shop.Data;
 using Shop.Interfaces;
 using Shop.Models;
 using Shop.Repository;
@@ -10,27 +11,26 @@ namespace Shop.Controllers
     {
         private readonly IAllCars _carRepository;
         private readonly ShopCart _shopCart;
+        private readonly AppDBContent _appDBContent;
 
-        public ShopCartController(IAllCars carRepository, ShopCart shopCart)
+        public ShopCartController(IAllCars carRepository, ShopCart shopCart, AppDBContent content)
         {
             _shopCart = shopCart;
             _carRepository = carRepository;
+            _appDBContent = content;
         }
 
         public ViewResult Index()
         {
             var items = _shopCart.GetShopItems();
             _shopCart.ShopCartItems = items;
-            var obj = new ShopCartViewModel() { shopCart = _shopCart };
+            _appDBContent.SaveChanges();
+            var obj = new ShopCartViewModel() { ShopCart = _shopCart };
             return View(obj);
         }
-        
-        public ViewResult CarInCart()
-        {
-            return View();
-        }
 
-        public RedirectToActionResult AddToCart(int id) 
+
+        public RedirectToActionResult AddToCart(int id)
         {
             var item = _carRepository.Cars.FirstOrDefault(i => i.Id == id);
             if (item != null)

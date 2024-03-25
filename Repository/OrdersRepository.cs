@@ -20,8 +20,9 @@ namespace Shop.Repository
         {
             order.OrderTime = DateTime.Now;
             appDBContent.Order.Add(order);
+            appDBContent.SaveChanges();
 
-            var items = shopCart.ShopCartItems;
+            var items = shopCart.GetShopItems();
             foreach (var el in items)
             {
                 var orderDetail = new OrderDetail()
@@ -32,6 +33,7 @@ namespace Shop.Repository
                 };
                 appDBContent.orderDetail.Add(orderDetail);
             }
+
             appDBContent.SaveChanges();
         }
     }

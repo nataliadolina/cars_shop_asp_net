@@ -18,11 +18,11 @@
                                     <div class="d-flex justify-content-between align-items-center mb-4">
                                         <div>
                                             <p class="mb-1"><ya-tr-span data-index="28-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Shopping cart" data-translation="Корзина" data-ch="0" data-type="trSpan" style="visibility: initial !important;">Корзина</ya-tr-span></p>
-                                            <p class="mb-0"><ya-tr-span data-index="29-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="You have 4 items in your cart" data-translation="В вашей корзине 4 товара" data-ch="0" data-type="trSpan" style="visibility: initial !important;">В вашей корзине 4 товара</ya-tr-span></p>
+                                            <p class="mb-0"><ya-tr-span data-index="29-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Number of items in your shopping cart: @(Model.ShopCart.ShopCartItems.Count)" data-translation="Количество товаров в корзине: @(Model.ShopCart.ShopCartItems.Count)" data-ch="0" data-type="trSpan" style="visibility: initial !important;">Количество товаров в корзине: @(Model.ShopCart.ShopCartItems.Count)</ya-tr-span></p>
                                         </div>
                                     </div>
                                         @{
-                                            foreach (ShopCartItem shopCartItem in Model.shopCart.ShopCartItems)
+                                            foreach (ShopCartItem shopCartItem in Model.ShopCart.ShopCartItems)
                                             {
                                                 @Html.Partial("CarInCart", shopCartItem.Car)
                                             }
@@ -33,10 +33,18 @@
                         </div>
                     </div>
                 </div>
-
+            @{
+                if (Model.ShopCart.ShopCartItems.Count > 0)
+                {
+                    <div><a class="btn btn-primary mt-2" asp-controller="Order" asp-action="Checkout">Pay</a></div>
+                }
+                else
+                {
+                    <div><a class="btn btn-primary mt-2 disabled" asp-controller="Order" asp-action="Checkout">Pay</a></div>
+                }
+            }
+            
         </section>
       </div>
 </section>
-<div class="container">
-    <a class="btn btn-danger" asp-controller="Order" asp-action="Checkout">Pay</a>
-</div>
+
