@@ -9,11 +9,9 @@ namespace Shop.Controllers
     public class HomeController : Controller
     {
         private readonly IAllCars _carRepository;
-        private readonly ShopCart _shopCart;
 
-        public HomeController(IAllCars carRepository, ShopCart shopCart)
+        public HomeController(IAllCars carRepository)
         {
-            _shopCart = shopCart;
             _carRepository = carRepository;
         }
 

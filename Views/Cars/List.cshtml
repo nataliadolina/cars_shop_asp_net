@@ -6,10 +6,8 @@
     Layout = "_Layout";
 }
 
-<h1>@Model.CurrentCategory</h1>
-<h3>Все автомобили</h3>
 <div class="container">
-
+    <h1>@Model.CurrentCategory</h1>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         @{
             foreach (Car car in Model.AllCars)

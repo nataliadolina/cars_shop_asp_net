@@ -32,13 +32,14 @@ namespace Shop.Controllers
                 if (string.Equals("electro", category, StringComparison.OrdinalIgnoreCase))
                 {
                     cars = _allCars.Cars.Where(i => i.Category.CategoryName.Equals("Электромобили")).OrderBy(i => i.Id);
+                    currentCategory = "Электромобили";
                 }
                 else if (string.Equals("fuel", category, StringComparison.OrdinalIgnoreCase))
                 {
                     cars = _allCars.Cars.Where(i => i.Category.CategoryName.Equals("Классические автомобили")).OrderBy(i => i.Id);
+                    currentCategory = "Классические автомобили";
                 }
             }
-            currentCategory = _category;
             CarsListViewModel carObj = new CarsListViewModel()
             {
                 AllCars = cars,
