@@ -2,10 +2,12 @@ using Shop.Data;
 using Shop.Interfaces;
 using Shop.Mocks;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.SqlServer;
 using Shop.Repository;
 using Shop.Migrations;
 using System.Web.Mvc;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Configuration.AddJsonFile("appsettings.json",
@@ -24,6 +26,7 @@ builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped(sp => Shop.Models.ShopCart.GetCart(sp));
 builder.Services.AddMemoryCache();
 builder.Services.AddSession();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -53,19 +56,6 @@ app.UseEndpoints(endpoints =>
         defaults: new { Controller = "Car", action = "List" });
 });
 
-//app.MapControllerRoute(
-//    name: "default",
-//    pattern: "{controller=Home}/{action=Index}/{id?}");
-//app.MapControllerRoute(
-//    name: "categoryFilter",
-//    pattern: "Car/{action}/{category?}",
-//    defaults: new { Controller = "Car", action = "List"}
-//    );
-//app.MapControllerRoute(
-//    name: "cart",
-//    pattern: "{constroller=ShopCart}/{action=AddToCart}/{id?}",
-//    defaults: new { Controller = "ShopCart", action = "AddToCart"}
-//    );
 using (var scope = app.Services.CreateScope())
 {
     AppDBContent content = scope.ServiceProvider.GetRequiredService<AppDBContent>();

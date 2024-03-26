@@ -26,7 +26,8 @@ namespace Shop.Controllers
             if (string.IsNullOrEmpty(category))
             {
                 cars = _allCars.Cars.OrderBy(i => i.Id);
-            } else
+            } 
+            else
             {
                 if (string.Equals("electro", category, StringComparison.OrdinalIgnoreCase))
                 {
